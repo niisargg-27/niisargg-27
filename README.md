@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @niisargg-27 (Nisarg Patil)
 - 🍔 Undergraduate at IIT Bhubaneswar
-- 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on small webd projects
+- 🌱 I’m currently learning Deep Learning and Neural Networks
+- 💞️ I’m looking to collaborate on ML Porjects
 -   ❕  Contact me via - nisargpatil03@gmail.com
 
 <!---
